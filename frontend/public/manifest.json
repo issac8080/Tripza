@@ -1,0 +1,10 @@
+{
+  "name": "Tripza",
+  "short_name": "Tripza",
+  "description": "Browse vehicles, list yours, and share trips.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#14b8a6",
+  "lang": "en-IN"
+}
